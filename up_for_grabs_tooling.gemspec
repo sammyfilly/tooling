@@ -17,3 +17,4 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'graphql-client', '~> 0.18'
   s.add_runtime_dependency 'json_schemer', '>= 0.2', '< 2.0'
 end
+run : build
